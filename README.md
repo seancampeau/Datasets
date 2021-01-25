@@ -1,5 +1,5 @@
 # Datasets
-#### A collection of datasets that I have used:
+#### A collection of datasets that I have created:
 
 Airfare--quarterly airfare for the 100 busiest airports in the United States from Q1 2015-Q4 2019, for a total of 20 quarters. Includes indicator variables for seasons and region (official US Census Bureau classifications with the exception of Puerto Rico, which was placed in the South).
 
